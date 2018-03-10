@@ -2,7 +2,7 @@
 
 <h1>Desktop Configuration</h1>
 
-This is my macOS (High Sierra) desktop configuration. 
+My macOS (High Sierra) desktop 
 
 ![macOS](/img/macOS.png)
 
@@ -11,7 +11,7 @@ Software being used:
 Xcode
 iTerm2
 Homebrew
-zsh
+zsh + oh-my-zsh
 vim
 Zephyros
 okeanos
@@ -19,7 +19,7 @@ gtop
 tty-clock
 ```
 
-This script is a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
+This script is generally a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
 
 <h1>Window Manager</h1>
 Test.
