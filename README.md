@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KYEHRWKYCD3A2)
 
-<h1>Desktop Configuration </h1>
+<h1>Desktop Configuration</h1>
 
 This is my macOS (High Sierra) desktop configuration. 
 
@@ -8,6 +8,7 @@ This is my macOS (High Sierra) desktop configuration.
 
 This script is a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
 
+Software being used:
 ```
 Xcode
 iTerm2
