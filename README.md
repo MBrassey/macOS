@@ -18,7 +18,6 @@ okeanos
 gtop
 tty-clock
 ```
-<img src="https://github.com/mattinclude/macOS/blob/master/img/macOS.png">
 
 <h1>Test</h1>
 Test.
