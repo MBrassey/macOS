@@ -18,7 +18,7 @@ This script is a good preparation step: <a href="https://github.com/mzdr/macOS">
   <li>gtop</li>
   <li>tty-clock</li>
 </ul>
-<img src="https://raw.githubusercontent.com/mattinclude/certdragon/master/cD/images/certDragon-github.png">
+<img src="https://github.com/mattinclude/macOS/blob/master/img/macOS.png">
 
 <h1>How to use</h1>
 Run from the docker index. Or you can place the files contained in the "cD" directory on your webserver's root directory. Edit the app/js/config.js file to change the root directory path.
