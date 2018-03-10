@@ -26,6 +26,7 @@ Usage: ./appleseed.sh [--help|--version]
 
 [options]
         --license       Show lisense information.
+        --about         What is appleseed?
 "
 
 about="
@@ -109,7 +110,7 @@ function homebrew() {
       fi
       brew_ver="$(brew --version 2>&1)"
       brew_ver_num=(${brew_ver[@]})
-      echo "[${cyan} $img_brew $brew_ver_num${reset}      ]"
+      echo "[${cyan} $img_brew $brew_ver_num${reset}     ]"
       temp0=""
 }
 
@@ -166,7 +167,7 @@ function completed(){
       echo "${blue}╭────╼${reset}${purple} Completed in: ${reset}${cyan}$duration${reset}${cyan}s${reset}"
 }
 
-#appleseed info
+#arguments 
 for ((arg=0;arg<"${#args[@]}";arg++)); do
         [ "${args[$arg]}" == "--version" ] && echo "${version}" && exit
         [ "${args[$arg]}" == "--help" ] && echo "${help}" && exit
