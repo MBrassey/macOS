@@ -3,9 +3,10 @@
 
 This is my macOS High Sierra configuration. 
 
-This script is a good preparation step: <a href="https://github.com/mzdr/macOS">When I do a clean macOS installation.</a>
 
-![Alt text](/img/macOS.png)
+![High Sierra](/img/macOS.png)
+
+This script is a good preparation step: <a href="https://github.com/mzdr/macOS">When I do a clean macOS installation.</a>
 
 ```
 Xcode
