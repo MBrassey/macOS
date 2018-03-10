@@ -22,7 +22,7 @@ tty-clock
 This script is generally a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
 
 <h1>Window Manager</h1>
-I have a pseudo tiling window manager configured using <a href="https://github.com/sdegutis/zephyros">Zephyros</a> & <a href="https://github.com/stayradiated/okeanos">Okeanos</a> together. This is a <a href="http://www.youtube.com/watch?v=10Zwc6r5sLs">video demonstration</a> from <a href="https://github.com/stayradiated">stayradiated</a>, the creator of Okeanos. 
+I have a pseudo tiling window manager configured using <a href="https://github.com/sdegutis/zephyros" target="_new">Zephyros</a> & <a href="https://github.com/stayradiated/okeanos" target="_new">Okeanos</a> together. This is a <a href="http://www.youtube.com/watch?v=10Zwc6r5sLs" target="_new">video demonstration</a> from <a href="https://github.com/stayradiated">stayradiated</a>, the creator of Okeanos. 
 
 <h1>Terminal</h1>
 Test2:
