@@ -5,19 +5,19 @@ This is my macOS High Sierra configuration.
 
 This script is a good preparation step: <a href="https://github.com/mzdr/macOS">When I do a clean macOS installation.</a>
 
-<h1>Suggested Software:</h1>
-<ul>
-  <li>macOS High Sierra</li>
-  <li>Xcode</li>
-  <li>iTerm2</li>
-  <li>Homebrew</li>
-  <li>zsh</li>
-  <li>vim</li>
-  <li>Zephyros</li>
-  <li>okeanos</li>
-  <li>gtop</li>
-  <li>tty-clock</li>
-</ul>
+![Alt text](/img/macOS.png)
+
+```
+Xcode
+iTerm2
+Homebrew
+zsh
+vim
+Zephyros
+okeanos
+gtop
+tty-clock
+```
 <img src="https://github.com/mattinclude/macOS/blob/master/img/macOS.png">
 
 <h1>Test</h1>
