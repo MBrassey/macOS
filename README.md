@@ -20,15 +20,15 @@ This script is a good preparation step: <a href="https://github.com/mzdr/macOS">
 </ul>
 <img src="https://github.com/mattinclude/macOS/blob/master/img/macOS.png">
 
-<h1>How to use</h1>
-Run from the docker index. Or you can place the files contained in the "cD" directory on your webserver's root directory. Edit the app/js/config.js file to change the root directory path.
+<h1>Test</h1>
+Test.
 
-<h1>Run from Docker index</h1>
-You can pull, install & start the certdragon container using this command within the Docker Terminal:
+<h1>Test2</h1>
+Test2:
 <pre>
-docker run -h certdragon -p 80:80 -d -i mattinclude/certdragon
+code1
 </pre>
-Run certdragon with logging:
+Test3:
 <pre>
-docker run -h certdragon -p 80:80 -t -i mattinclude/certdragon
+code2
 </pre>
