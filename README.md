@@ -26,7 +26,9 @@ This script is generally a good preparation step: <a target="_blank" href="https
 I have a pseudo tiling window manager configured using <a target="_blank" href="https://github.com/sdegutis/zephyros">Zephyros</a> & <a target="_blank" href="https://github.com/stayradiated/okeanos">Okeanos</a> together. This is a <a target="_blank" href="http://www.youtube.com/watch?v=10Zwc6r5sLs">video demonstration</a> from <a target="_blank" href="https://github.com/stayradiated">stayradiated</a>, the creator of Okeanos. 
 
 <h1>Terminal</h1>
-Test2:
+I've configured iTerm2 in a few ways to suit my liking. You can simply import my <a href="">iTerm2 profile</a> or set up a few things manually. 
+
+
 <pre>
 code1
 </pre>
