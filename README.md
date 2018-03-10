@@ -17,9 +17,10 @@ Zephyros
 okeanos
 gtop
 tty-clock
+cava (cli visualiser) + mosh (ssh)
 ```
 
-This script is generally a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
+This script is generally a good preparation step: <a target="_blank" href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
 
 <h1>Window Manager</h1>
 I have a pseudo tiling window manager configured using <a target="_blank" href="https://github.com/sdegutis/zephyros">Zephyros</a> & <a target="_blank" href="https://github.com/stayradiated/okeanos">Okeanos</a> together. This is a <a target="_blank" href="http://www.youtube.com/watch?v=10Zwc6r5sLs">video demonstration</a> from <a target="_blank" href="https://github.com/stayradiated">stayradiated</a>, the creator of Okeanos. 
