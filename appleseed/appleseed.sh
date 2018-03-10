@@ -34,6 +34,7 @@ about="
 "
 
 #Variables
+args=("$@")
 endscript="false"
 imgcat="/Users/matthew/.iterm2/imgcat"
 minutes="10"
