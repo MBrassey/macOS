@@ -6,8 +6,6 @@ This is my macOS (High Sierra) desktop configuration.
 
 ![macOS](/img/macOS.png)
 
-This script is a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
-
 Software being used:
 ```
 Xcode
@@ -21,10 +19,12 @@ gtop
 tty-clock
 ```
 
-<h1>Test</h1>
+This script is a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
+
+<h1>Window Manager</h1>
 Test.
 
-<h1>Test2</h1>
+<h1>Terminal</h1>
 Test2:
 <pre>
 code1
