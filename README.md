@@ -33,7 +33,6 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href
  PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
  RPROMPT="%{$fg[cyan]%}ψ %M %{$fg[green]%}%~%{$reset_color%}"
 ```
-<br><br>
 
 ![macOS](/img/trident_zsh.png)
 
