@@ -4,7 +4,7 @@
 
 My macOS (High Sierra) desktop 
 
-![macOS](/img/macOS.png)
+![macOS](/img/macOS.gif)
 
 Software used:
 ```
