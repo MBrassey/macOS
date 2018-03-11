@@ -37,4 +37,4 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href
 ![macOS](/img/trident_zsh.png)
 
 <h1>Misc.</h1>
-I recommend the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hybrid</a> color theme for vim. The command line visualizer I am utilizing is <a href="https://github.com/karlstav/cava">cava</a>. You can also use <a href="https://github.com/dpayne/cli-visualizer">cli-visualizer</a>. I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance.   
+I recommend the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hybrid</a> color theme for vim. In the macOS General settings, I have the Graphite Appearance, and am using the Dark bar and Dock. The command line visualizer I am utilizing is <a href="https://github.com/karlstav/cava">cava</a>. You can also use <a href="https://github.com/dpayne/cli-visualizer">cli-visualizer</a>. I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance.   
