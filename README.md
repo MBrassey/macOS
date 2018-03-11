@@ -6,7 +6,7 @@ My macOS (High Sierra) desktop
 
 ![macOS](/img/macOS.png)
 
-Software being used:
+Software used:
 ```
 Xcode
 iTerm2
