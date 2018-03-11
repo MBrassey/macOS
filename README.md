@@ -28,6 +28,10 @@ I have a pseudo tiling window manager configured using <a href="https://github.c
 <h1>Terminal</h1>
 I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href="https://github.com/mattinclude/macOS/tree/master/configs">iTerm2 profile json</a> or set up a few things manually. I imported the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/macOS/tree/master/configs">trident.zsh-theme</a>. 
 
+```
+ PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
+ RPROMPT="%{$fg[cyan]%}ψ %M %{$fg[green]%}%~%{$reset_color%}"
+```
 
 ![macOS](/img/trident_zsh.png)
 
