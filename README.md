@@ -6,6 +6,8 @@ My macOS (High Sierra) desktop
 
 ![macOS](/img/macOS.gif)
 
+![appleseed](/img/appleseed.png)
+
 Software used:
 ```
 Xcode
