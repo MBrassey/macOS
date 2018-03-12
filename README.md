@@ -25,6 +25,10 @@ This script is generally a good preparation step: <a href="https://github.com/mz
 <h1>Window Manager</h1>
 I have a pseudo tiling window manager configured using <a href="https://github.com/sdegutis/zephyros">Zephyros</a> & <a href="https://github.com/stayradiated/okeanos">Okeanos</a> together. This is a <a href="http://www.youtube.com/watch?v=10Zwc6r5sLs">video demonstration</a> from <a href="https://github.com/stayradiated">stayradiated</a>, the creator of `Okeanos`. 
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
+" target="_blank"><img src="http://img.youtube.com/vi/10Zwc6r5sLs/0.jpg" 
+alt="Okeanos" width="240" height="180" border="10" /></a>
+
 <h1>Terminal</h1>
 I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href="https://github.com/mattinclude/macOS/tree/master/configs">iTerm2 profile json</a> or set up a few things manually. I imported the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/macOS/tree/master/configs">trident.zsh-theme</a>. 
 <br><br>
