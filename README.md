@@ -45,8 +45,9 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href
 <h1>appleseed</h1>
 appleseed v1.0.0
 
-        Is a command line widget (CLW), designed for macOS and iTerm2. For best results,
-        launch in a tall by thin proportioned shell.
+        Is a command line widget (CLW), designed for macOS and iTerm2. appleseed is a flexible 
+        platform for process automation. It utilizes imgcat to view png files with the help of 
+        shell integration. For best results, launch in a tall by thin proportioned shell.
 
 ![appleseed](/img/appleseed.png)
 
