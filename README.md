@@ -6,7 +6,6 @@ My macOS (High Sierra) desktop
 
 ![macOS](/img/macOS.gif)
 
-![appleseed](/img/appleseed.png)
 
 Software used:
 ```
@@ -42,6 +41,14 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href
 ```
 
 ![macOS](/img/trident_zsh.png)
+
+<h1>appleseed</h1>
+appleseed v1.0.0
+
+        Is a command line widget (CLW), designed for macOS and iTerm2. For best results,
+        launch in a tall by thin proportioned shell.
+
+![appleseed](/img/appleseed.png)
 
 <h1>Misc.</h1>
 I recommend the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color theme for vim. In the macOS General settings, I have the Graphite Appearance, and am using the Dark bar and Dock. The command line visualizer I am utilizing is <a href="https://github.com/karlstav/cava">cava</a>. You can also use <a href="https://github.com/dpayne/cli-visualizer">cli-visualizer</a>. I run the sofware over a mosh (persistant ssh) session to a Linux VM or instance.   
