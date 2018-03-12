@@ -24,7 +24,7 @@ This script is generally a good preparation step: <a href="https://github.com/mz
 
 <h1>Window Manager</h1>
 I have a pseudo tiling window manager configured using <a href="https://github.com/sdegutis/zephyros">Zephyros</a> & <a href="https://github.com/stayradiated/okeanos">Okeanos</a> together. This is a video demonstration from <a href="https://github.com/stayradiated">stayradiated</a>, the creator of Okeanos: 
-
+<br><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
 " target="_blank"><img src="http://img.youtube.com/vi/10Zwc6r5sLs/0.jpg" 
 alt="Okeanos" width="240" height="180" border="10" /></a>
