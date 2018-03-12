@@ -41,11 +41,12 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href
 ![macOS](/img/trident_zsh.png)
 
 <h1>appleseed</h1>
-<a href="https://github.com/mattinclude/appleseed">appleseed v1.0.0</a>
+<a href="https://github.com/mattinclude/appleseed"> appleseed v1.0.0</a>
 
-        Is a command line widget (CLW), I designed for macOS and iTerm2.  appleseed is a flexible 
-        platform for process automation and eye candy. It utilizes imgcat to view png files with the help of 
-        shell integration. For best results, launch in a tall by thin proportioned shell.
+        Is a command line widget (CLW), I designed for macOS and iTerm2. It's a flexible 
+        platform for process automation and eye candy. It utilizes >imgcat to view image 
+        files with the help of shell integration. For best results, launch in a tall by 
+        thin proportioned shell.
 
 ![appleseed](/img/appleseed.png)
 
