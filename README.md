@@ -8,19 +8,18 @@ My macOS (High Sierra) desktop
 
 
 Software used:
-```
-Xcode
-iTerm2
-Homebrew
-zsh + oh-my-zsh
-vim
-Zephyros
-okeanos
-gtop
-tty-clock
-cava (cli visualiser) + mosh (ssh)
-appleseed
-```
+
+        Xcode
+        iTerm2
+        Homebrew
+        zsh + oh-my-zsh
+        vim
+        Zephyros
+        okeanos
+        gtop
+        tty-clock
+        cava (cli visualiser) + mosh (ssh)
+        appleseed
 
 This script is generally a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
 
