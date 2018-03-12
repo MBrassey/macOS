@@ -30,7 +30,7 @@ I have a pseudo tiling window manager configured using <a href="https://github.c
 alt="Okeanos" width="240" height="180" border="10" /></a>
 
 <h1>Terminal</h1>
-I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href="https://github.com/mattinclude/macOS/tree/master/configs">iTerm2 profile json</a> or set up a few things manually. I imported the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/powerline/fonts">powerline patched</a> <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/macOS/tree/master/configs">trident.zsh-theme</a>. 
+I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href="https://github.com/mattinclude/appleseed/tree/master/backup">iTerm2 profile json</a> or set up a few things manually. I imported the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/powerline/fonts">powerline patched</a> <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/appleseed/tree/master/backup">trident.zsh-theme</a>. 
 <br><br>
 
 ```
@@ -41,4 +41,4 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href
 ![macOS](/img/trident_zsh.png)
 
 <h1>Misc.</h1>
-I recommend the <a href="https://github.com/mattinclude/macOS/tree/master/configs">Hybrid</a> color theme for vim. In the macOS General settings, I have the Graphite Appearance, and am using the Dark bar and Dock. The command line visualizer I am utilizing is <a href="https://github.com/karlstav/cava">cava</a>. You can also use <a href="https://github.com/dpayne/cli-visualizer">cli-visualizer</a>. I run the sofware over a mosh (persistant ssh) session to a Linux VM or instance.   
+I recommend the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color theme for vim. In the macOS General settings, I have the Graphite Appearance, and am using the Dark bar and Dock. The command line visualizer I am utilizing is <a href="https://github.com/karlstav/cava">cava</a>. You can also use <a href="https://github.com/dpayne/cli-visualizer">cli-visualizer</a>. I run the sofware over a mosh (persistant ssh) session to a Linux VM or instance.   
