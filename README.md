@@ -15,7 +15,7 @@ Software used:
         zsh + oh-my-zsh
         vim
         Zephyros
-        okeanos
+        Okeanos
         gtop
         tty-clock
         cava (cli visualiser) + mosh (ssh)
