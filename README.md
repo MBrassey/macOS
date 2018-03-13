@@ -9,17 +9,17 @@ My macOS (High Sierra) desktop
 
 Software used:
 
-        Xcode
-        iTerm2
-        Homebrew
-        zsh + oh-my-zsh
-        vim
-        Zephyros
-        Okeanos
-        gtop
-        tty-clock
-        cava (cli visualiser) + mosh (ssh)
-        appleseed
+    Xcode
+    iTerm2
+    Homebrew
+    zsh + oh-my-zsh
+    vim
+    Zephyros
+    Okeanos
+    gtop
+    tty-clock
+    cava (cli visualiser) + mosh (ssh)
+    appleseed
 
 This script is generally a good preparation step: <a href="https://github.com/mzdr/macOS"> When I do a clean macOS installation.</a>
 
@@ -34,8 +34,8 @@ alt="Okeanos" width="240" height="180" border="10" /></a>
 I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href="https://github.com/mattinclude/appleseed/tree/master/backup">iTerm2 profile json</a> or set up a few things manually. I imported the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/powerline/fonts">powerline patched</a> <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/appleseed/tree/master/backup">trident.zsh-theme</a>. 
 <br><br>
 
-        PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
-        RPROMPT="%{$fg[cyan]%}ψ %M %{$fg[green]%}%~%{$reset_color%}"
+    PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
+    RPROMPT="%{$fg[cyan]%}ψ %M %{$fg[green]%}%~%{$reset_color%}"
 
 
 ![macOS](/img/trident_zsh.png)
