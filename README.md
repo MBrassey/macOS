@@ -25,7 +25,7 @@ This script is generally a good preparation step: [When I do a clean macOS insta
 
 ## Window Manager
 I have a pseudo tiling window manager configured using [Zephyros](https://github.com/sdegutis/zephyros) & [Okeanos](https://github.com/stayradiated/okeanos) together. This is a video demonstration from [stayradiated](https://github.com/stayradiated), the creator of `Okeanos`: 
-<br><br>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
 " target="_blank"><img src="http://img.youtube.com/vi/10Zwc6r5sLs/0.jpg" 
 alt="Okeanos" width="240" height="180" border="10" /></a>
@@ -41,7 +41,6 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 
 ## appleseed
 [ appleseed v1.0.0](https://github.com/mattinclude/appleseed) Is a command line widget (CLW), I designed for `macOS` and `iTerm2`. It's a flexible platform for process automation and added eye candy. It utilizes `imgcat` to view image files inside the terminal with the help of shell integration. • For best results, launch in a tall by thin proportioned shell.
-<br><br>
 
 ![appleseed](/img/appleseed.png)
 
