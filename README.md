@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KYEHRWKYCD3A2)
 
-<h1>Desktop Configuration</h1>
+## Desktop Configuration
 
 My macOS (High Sierra) desktop 
 
@@ -30,8 +30,8 @@ I have a pseudo tiling window manager configured using [Zephyros](https://github
 " target="_blank"><img src="http://img.youtube.com/vi/10Zwc6r5sLs/0.jpg" 
 alt="Okeanos" width="240" height="180" border="10" /></a>
 
-<h1>Terminal</h1>
-I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2 profile json](https://github.com/mattinclude/appleseed/tree/master/backup) or set up a few things manually. I imported the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/powerline/fonts">powerline patched</a> - <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/appleseed/tree/master/backup">trident.zsh-theme</a>. 
+## Terminal
+I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2 profile json](https://github.com/mattinclude/appleseed/tree/master/backup) or set up a few things manually. I imported the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the [powerline patched](https://github.com/powerline/fonts) - [Hack font](https://github.com/mattinclude/appleseed/tree/master/backup) | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme [trident.zsh-theme](https://github.com/mattinclude/appleseed/tree/master/backup). 
 <br><br>
 
     PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
@@ -40,11 +40,11 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 
 ![macOS](/img/trident_zsh.png)
 
-<h1>appleseed</h1>
-<a href="https://github.com/mattinclude/appleseed"> appleseed v1.0.0</a> Is a command line widget (CLW), I designed for macOS and iTerm2. It's a flexible platform for process automation and added eye candy. It utilizes imgcat to view image files inside the terminal with the help of shell integration. • For best results, launch in a tall by thin proportioned shell.
+## appleseed
+[ appleseed v1.0.0](https://github.com/mattinclude/appleseed) Is a command line widget (CLW), I designed for macOS and iTerm2. It's a flexible platform for process automation and added eye candy. It utilizes imgcat to view image files inside the terminal with the help of shell integration. • For best results, launch in a tall by thin proportioned shell.
 <br><br>
 
 ![appleseed](/img/appleseed.png)
 
-<h1>Misc.</h1>
-I recommend the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is <a href="https://github.com/karlstav/cava">cava</a>. You can also use <a href="https://github.com/dpayne/cli-visualizer">cli-visualizer</a>. I run the sofware over a mosh (persistant ssh) session to a Linux VM or instance.   
+## Misc.
+I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is [cava](https://github.com/karlstav/cava). You can also use [cli-visualizer](https://github.com/dpayne/cli-visualizer). I run the sofware over a mosh (persistant ssh) session to a Linux VM or instance.   
