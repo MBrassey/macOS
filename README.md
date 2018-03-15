@@ -31,7 +31,7 @@ I have a pseudo tiling window manager configured using [Zephyros](https://github
 alt="Okeanos" width="240" height="180" border="10" /></a>
 
 ## Terminal
-I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2 profile json](https://github.com/mattinclude/appleseed/tree/master/backup) or set up a few things manually. I imported the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the [powerline patched](https://github.com/powerline/fonts) - [Hack font](https://github.com/mattinclude/appleseed/tree/master/backup) | A typeface designed for source code. I prefer `zsh`, and have provided my custom theme [trident.zsh-theme](https://github.com/mattinclude/appleseed/tree/master/backup). 
+I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2 profile json](https://github.com/mattinclude/appleseed/tree/master/backup) or set up a few things manually. I imported the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color preset. Under window settings, my Transparency=19%, Style=No Title Bar and I'm using no Blurring. I'm using the [powerline patched](https://github.com/powerline/fonts) - [Hack font](https://github.com/mattinclude/appleseed/tree/master/backup) | A typeface designed for source code. I prefer `zsh`, and have provided my custom theme [trident.zsh-theme](https://github.com/mattinclude/appleseed/tree/master/backup). 
 
     PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
     RPROMPT="%{$fg[cyan]%}ψ %M %{$fg[green]%}%~%{$reset_color%}"
