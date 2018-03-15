@@ -24,14 +24,14 @@ Software used:
 This script is generally a good preparation step: [When I do a clean macOS installation.](https://github.com/mzdr/macOS) 
 
 <h1>Window Manager</h1>
-I have a pseudo tiling window manager configured using <a href="https://github.com/sdegutis/zephyros">Zephyros</a> & <a href="https://github.com/stayradiated/okeanos">Okeanos</a> together. This is a video demonstration from <a href="https://github.com/stayradiated">stayradiated</a>, the creator of Okeanos: 
+I have a pseudo tiling window manager configured using [Zephyros](https://github.com/sdegutis/zephyros) & [Okeanos](https://github.com/stayradiated/okeanos) together. This is a video demonstration from [stayradiated](https://github.com/stayradiated), the creator of Okeanos: 
 <br><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
 " target="_blank"><img src="http://img.youtube.com/vi/10Zwc6r5sLs/0.jpg" 
 alt="Okeanos" width="240" height="180" border="10" /></a>
 
 <h1>Terminal</h1>
-I've configured iTerm2 in a few ways to suit my liking. Simply import my <a href="https://github.com/mattinclude/appleseed/tree/master/backup">iTerm2 profile json</a> or set up a few things manually. I imported the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/powerline/fonts">powerline patched</a> - <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/appleseed/tree/master/backup">trident.zsh-theme</a>. 
+I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2 profile json](https://github.com/mattinclude/appleseed/tree/master/backup) or set up a few things manually. I imported the <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hybrid</a> color preset. Under window settings, my <strong>Transparency=19%</strong>, <strong>Style=No Title Bar</strong> and I'm using <strong>no Blurring</strong>. I'm using the <a href="https://github.com/powerline/fonts">powerline patched</a> - <a href="https://github.com/mattinclude/appleseed/tree/master/backup">Hack font</a> | A typeface designed for source code. I prefer the <strong>zsh</strong>, and have provided my custom theme <a href="https://github.com/mattinclude/appleseed/tree/master/backup">trident.zsh-theme</a>. 
 <br><br>
 
     PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
