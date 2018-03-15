@@ -23,7 +23,7 @@ Software used:
 
 This script is generally a good preparation step: [When I do a clean macOS installation.](https://github.com/mzdr/macOS) 
 
-<h1>Window Manager</h1>
+## Window Manager
 I have a pseudo tiling window manager configured using [Zephyros](https://github.com/sdegutis/zephyros) & [Okeanos](https://github.com/stayradiated/okeanos) together. This is a video demonstration from [stayradiated](https://github.com/stayradiated), the creator of Okeanos: 
 <br><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
