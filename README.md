@@ -47,4 +47,4 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 ## Misc.
 I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is [cava](https://github.com/karlstav/cava). You can also use [cli-visualizer](https://github.com/dpayne/cli-visualizer). I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance. As for `tmux`, this is my [preferred config](https://github.com/mattinclude/etc-tmux). View the [Wallpaper](img/bg0.png).  
 
-[reddit](https://redd.it/850z1e)       |       [Google+](https://plus.google.com/103376197601313389933/posts/BvfTGdpBJKf) 
+[ [reddit](https://redd.it/850z1e)       |       [Google+](https://plus.google.com/103376197601313389933/posts/BvfTGdpBJKf) ]
