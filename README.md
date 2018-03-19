@@ -48,6 +48,6 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is [cava](https://github.com/karlstav/cava). You can also use [cli-visualizer](https://github.com/dpayne/cli-visualizer). I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance. As for `tmux`, this is my [preferred config](https://github.com/mattinclude/etc-tmux). View the [Wallpaper](img/bg0.png).  
 
     "okeanos (ωκεανός) is Greek for the ocean (kind of obvious maybe) and zephyros (Ζέφυρος) is Greek for the
-     West wind" - [u/saligari](https://www.reddit.com/user/saligari)
+     West wind" - u/saligari
 
 [ <strong>[reddit](https://redd.it/850z1e)</strong>       |      <strong> [Google+](https://plus.google.com/103376197601313389933/posts/BvfTGdpBJKf)</strong> ]
