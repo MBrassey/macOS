@@ -4,7 +4,7 @@
 
 My macOS (High Sierra) desktop 
 
-![macOS](/img/macOS.gif)
+[<img src="img/macOS.gif">](https://brassey.io/)
 
 ─── [reddit](https://redd.it/850z1e)
 
