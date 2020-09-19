@@ -42,8 +42,7 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
     PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
     RPROMPT="%{$fg[cyan]%}ψ %M %{$fg[green]%}%~%{$reset_color%}"
 
-
-![macOS](/img/trident_zsh.png)
+[<img src="img/trident_zsh.png">](https://brassey.io/)
 
 ## appleseed
 
@@ -53,7 +52,7 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 > with the help of shell integration. • For best results, launch in a 
 > tall by thin proportioned shell.
 
-![appleseed](/img/appleseed.png)
+[<img src="img/appleseed.png">](https://brassey.io/)
 
 ## Misc.
 I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is [cava](https://github.com/karlstav/cava). You can also use [cli-visualizer](https://github.com/dpayne/cli-visualizer). I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance. As for `tmux`, this is my [preferred config](https://github.com/mattinclude/etc-tmux). View the [Wallpaper](img/bg0.png).  
