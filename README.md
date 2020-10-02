@@ -1,6 +1,6 @@
-#### Desktop Configuration
+## Desktop Configuration
 
-My macOS (High Sierra) desktop
+My macOS (High Sierra) desktop.
 
 ![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
