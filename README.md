@@ -71,6 +71,6 @@ I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/ba
 Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or comments.
 
 #### License
-READMEGenesis is published under the __CC0_1.0_Universal__ license.
+`MacOS` is published under the __CC0_1.0_Universal__ license.
 
 > The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
