@@ -12,7 +12,7 @@ My macOS (High Sierra) desktop
 
 #### Table of Contents
 
-* [Software Used](#Software)
+* [Software](#Software)
 * [Window Manager](#WindowManager)
 * [Terminal](#Terminal)
 * [appleseed](#appleseed)
