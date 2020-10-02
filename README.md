@@ -1,8 +1,8 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KYEHRWKYCD3A2)
+#### Desktop Configuration
 
-## Desktop Configuration
+My macOS (High Sierra) desktop
 
-My macOS (High Sierra) desktop 
+![licensebadge](https://img.shields.io/badge/license-CC0_1.0_Universal-blue)
 
 [<img src="img/macOS.gif">](https://brassey.io/)
 
@@ -10,7 +10,17 @@ My macOS (High Sierra) desktop
 
 ─── [Google+](https://plus.google.com/103376197601313389933/posts/BvfTGdpBJKf)
 
-Software used:
+#### Table of Contents
+
+* [Software Used](#Software)
+* [Window Manager](#Window)
+* [Terminal](#Terminal)
+* [appleseed](#appleseed)
+* [Misc.](#Misc.)
+* [Questions](#Questions)
+* [License](#License)
+
+#### Software used:
 
     Xcode
     iTerm2
@@ -26,7 +36,7 @@ Software used:
 
 This script is generally a good preparation step: [When I do a clean macOS installation.](https://github.com/mzdr/macOS) 
 
-## Window Manager
+#### Window Manager
 I have a pseudo tiling window manager configured using [Zephyros](https://github.com/sdegutis/zephyros) & [Okeanos](https://github.com/stayradiated/okeanos) together. This is a video demonstration from [stayradiated](https://github.com/stayradiated), the creator of `Okeanos`: 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
@@ -36,7 +46,7 @@ alt="Okeanos" width="240" height="180" border="10" /></a>
 >    "okeanos (ωκεανός) is Greek for the ocean (kind of obvious maybe) and zephyros (Ζέφυρος) is Greek for the
 >     West wind" - u/saligari
 
-## Terminal
+#### Terminal
 I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2 profile json](https://github.com/mattinclude/appleseed/tree/master/backup) or set up a few things manually. I imported the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color preset. Under window settings, Transparency=19%, Style=No Title Bar and I'm using no Blurring. I'm using the [powerline patched](https://github.com/powerline/fonts) - [Hack font](https://github.com/mattinclude/appleseed/tree/master/backup) | A typeface designed for source code. I prefer `zsh`, and have provided my custom theme [trident.zsh-theme](https://github.com/mattinclude/appleseed/tree/master/backup). 
 
     PROMPT="%{$fg_bold[blue]%}───╼%{$reset_color%} "
@@ -44,7 +54,7 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 
 [<img src="img/trident_zsh.png">](https://brassey.io/)
 
-## appleseed
+#### appleseed
 
 > [appleseed v1.0.0](https://github.com/mattinclude/appleseed) is a command line widget (CLW), I designed for macOS 
 > and iTerm2. Its a flexible platform for process automation and added 
@@ -54,5 +64,13 @@ I've configured iTerm2 in a few ways to suit my liking. Simply import my [iTerm2
 
 [<img src="img/appleseed.png">](https://brassey.io/)
 
-## Misc.
-I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is [cava](https://github.com/karlstav/cava). You can also use [cli-visualizer](https://github.com/dpayne/cli-visualizer). I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance. As for `tmux`, this is my [preferred config](https://github.com/mattinclude/etc-tmux). View the [Wallpaper](img/bg0.png).  
+#### Misc.
+I recommend the [Hybrid](https://github.com/mattinclude/appleseed/tree/master/backup) color theme for vim. In the macOS General settings, I use the Graphite Appearance, and the Dark Bar and Dock. The command line visualizer I am utilizing is [cava](https://github.com/karlstav/cava). You can also use [cli-visualizer](https://github.com/dpayne/cli-visualizer). I run the sofware over a `mosh` (persistant ssh) session to a Linux VM or instance. As for `tmux`, this is my [preferred config](https://github.com/mattinclude/etc-tmux). View the [Wallpaper](img/bg0.png).
+
+#### Questions
+Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or comments.
+
+#### License
+READMEGenesis is published under the __CC0_1.0_Universal__ license.
+
+> The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach. As with the Unlicense and typical software licenses, CC0 disclaims warranties. CC0 is very similar to the Unlicense.
