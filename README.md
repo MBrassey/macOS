@@ -13,14 +13,14 @@ My macOS (High Sierra) desktop
 #### Table of Contents
 
 * [Software Used](#Software)
-* [Window Manager](#Window)
+* [Window Manager](#WindowManager)
 * [Terminal](#Terminal)
 * [appleseed](#appleseed)
 * [Misc.](#Misc.)
 * [Questions](#Questions)
 * [License](#License)
 
-#### Software used:
+#### Software
 
     Xcode
     iTerm2
@@ -36,7 +36,7 @@ My macOS (High Sierra) desktop
 
 This script is generally a good preparation step: [When I do a clean macOS installation.](https://github.com/mzdr/macOS) 
 
-#### Window Manager
+#### WindowManager
 I have a pseudo tiling window manager configured using [Zephyros](https://github.com/sdegutis/zephyros) & [Okeanos](https://github.com/stayradiated/okeanos) together. This is a video demonstration from [stayradiated](https://github.com/stayradiated), the creator of `Okeanos`: 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=10Zwc6r5sLs
